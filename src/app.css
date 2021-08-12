@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    margin-top:10px ;
+}
+.featutedTitle{
+    font-size: 20px;
+}
+.featuredMoneyContainer{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+.feauteredMoney{
+    font-size: 30px;
+    font-weight: 600;
+}
+.feauteredMoneyRate{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.feauteredIcon{
+    font-size: 14px;
+    margin-left: 5PX;
+    color: green;
+}
+.feauteredIcon.negative{
+    color: red;
+}
+.feauteredSub{
+    font-size: 15px;
+    color: #555555;
+}
