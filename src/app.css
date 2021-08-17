@@ -31,3 +31,7 @@
     font-size: 15px;
     color: #555555;
 }
+.link{
+    text-decoration: none;
+    color: inherit;
+}
