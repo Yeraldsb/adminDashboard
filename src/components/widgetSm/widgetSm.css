@@ -9,9 +9,12 @@
     font-size: 22px;
     font-weight: 600;
 }
+.WidgetSmContainerList{
+    margin-top: 10px;
+}
 
 .widgetSmImage{
-    font: 40px;
+    width: 40px;
     height: 40px;
     border-radius: 50%;
     object-fit: cover;

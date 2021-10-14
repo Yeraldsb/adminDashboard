@@ -9,7 +9,7 @@ export default function Topbar() {
         <div className="topbar">
             <div className="topbarWraper">
                 <div className="topLeft">
-                    <span className="logo"> Llamaadmin </span>
+                    <span className="logo"> Admin Dashboard </span>
                 </div>
                 <div className="topRight">
                     <div className="topbarIconContainer">
