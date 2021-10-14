@@ -87,7 +87,8 @@ export const UserRows = [
         avatar: jon ,
         email:"jon@gmail.com",
         status:"active",
-        transaction: "$987.00"
+        transaction: "$987.00",
+        phone: "658854706"
     },
     {
         id: 2,
@@ -95,7 +96,8 @@ export const UserRows = [
         avatar:woman1,
         email:"honHanna25@gmail.com",
         status:"active",
-        transaction: "$331.00"
+        transaction: "$331.00",
+        phone: "658854706"
     },
     {
         id: 3,
@@ -103,7 +105,8 @@ export const UserRows = [
         avatar:woman2 ,
         email:"marge54mar@hotmail.com",
         status:"active",
-        transaction: "$763.02"
+        transaction: "$763.02",
+        phone: "658854706"
     },
     {
         id: 4,
@@ -111,7 +114,8 @@ export const UserRows = [
         avatar:man1 ,
         email:"timtom54_@gmail.com",
         status:"active",
-        transaction: "$354.00"
+        transaction: "$354.00",
+        phone: "658854706"
     },
     {
         id: 5,
@@ -119,7 +123,8 @@ export const UserRows = [
         avatar:woman3 ,
         email:"ocampo22@gmail.com",
         status:"active",
-        transaction: "$120.00"
+        transaction: "$120.00",
+        phone: "658854706"
     },
     {
         id: 6,
@@ -127,7 +132,8 @@ export const UserRows = [
         avatar:man2 ,
         email:"gregholl@hotmail.com",
         status:"active",
-        transaction: "$1.985.00"
+        transaction: "$1.985.00",
+        phone: "658854706"
     },
     {
         id: 7,
@@ -135,7 +141,8 @@ export const UserRows = [
         avatar:woman4 ,
         email:"moonroe7-pre@gmail.com",
         status:"active",
-        transaction: "$502.00"
+        transaction: "$502.00",
+        phone: "658854706"
     },
     {
         id: 8,
@@ -143,7 +150,8 @@ export const UserRows = [
         avatar:woman5 ,
         email:"quincylee@gmail.com",
         status:"active",
-        transaction: "$965.00"
+        transaction: "$965.00",
+        phone: "658854706"
     },
     {
         id: 9,
@@ -151,7 +159,8 @@ export const UserRows = [
         avatar:man3 ,
         email:"xavi-bb_12@gmail.com",
         status:"active",
-        transaction: "$420.00"
+        transaction: "$420.00",
+        phone: "658854706"
     },
     {
         id: 10,
@@ -159,7 +168,8 @@ export const UserRows = [
         avatar:man5 ,
         email:"murray.zander22@gmail.com",
         status:"active",
-        transaction: "$1.200.00"
+        transaction: "$1.200.00",
+        phone: "658854706"
     },
 
 ];
