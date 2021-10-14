@@ -14,8 +14,8 @@ export default function WidgetSm() {
                         alt=""
                         className="widgetSmImage"/>
                     <div className="widgetSmUser">
-                        <span className="widgetSmUsername">Anna Keller </span>
-                        <span className="widgetSmUserTitle">Software Engineer </span>
+                        <span className="widgetSmUsername">Michell Smith </span>
+                        <span className="widgetSmUserTitle">Web Developer </span>
                     </div>
                     <button className="widgetSmButton">
                         <Visibility className="widgetSmIcon" />
